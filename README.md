@@ -16,7 +16,7 @@ go run main.go
 ```
 or If you are using the binary run the following command
 ```
-./goddit
+./main
 ```
 ## Supported OS
 For now only linux is supported windows support comming soon
