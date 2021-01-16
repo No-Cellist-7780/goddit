@@ -9,7 +9,7 @@ git clone https://github.com/No-Cellist-7780/goddit.git
 ```
 or download the binary files from the releases in the github repo
 
-## Useage 
+## Usage 
 ```
 cd goddit
 go run main.go
